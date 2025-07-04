@@ -45,31 +45,19 @@ aboutMeList.forEach(item => {
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:31px; vertical-align:middle;" alt="JavaScript" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:31px; vertical-align:middle;" alt="Node.js" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="height:31px; vertical-align:middle;" alt="NestJS" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:31px; vertical-align:middle;" alt="React" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:31px; vertical-align:middle;" alt="Next.js" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:31px; vertical-align:middle;" alt="Arduino" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="height:31px; vertical-align:middle;" alt="Firebase" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="height:31px; vertical-align:middle;" alt="Docker" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:31px; vertical-align:middle;" alt="TypeScript" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:31px; vertical-align:middle;" alt="C++" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:31px; vertical-align:middle;" alt="C" />
-  <span style="margin: 0 8px;"></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:31px; vertical-align:middle;" alt="PostgreSQL" />
-  <span style="margin: 0 8px;"></span>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="height:31px; vertical-align:middle; margin-right:17px;" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:31px; vertical-align:middle;" alt="MySQL" />
 </div>
 
